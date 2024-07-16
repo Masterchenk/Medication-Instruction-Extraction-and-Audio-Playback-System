@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/237拍照.png</file>
+    <file>icons/保存并下一步.png</file>
+    <file>icons/卡口视频摄像头,监控,桌面摄像头,网络摄像头.png</file>
+    <file>icons/文件夹.png</file>
+    <file>icons/AI.png</file>
+    <file>icons/close-circle-fill.png</file>
+    <file>icons/minus-circle-fill.png</file>
+    <file>icons/花.png</file>
+    <file>icons/花草.png</file>
+    <file>icons/粮食监管.png</file>
+    <file>icons/药品说明书.png</file>
+    <file>icons/智能.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>images/语音.png</file>
+    <file>images/切换.png</file>
+    <file>images/背景图片.png</file>
+  </qresource>
+</RCC>
